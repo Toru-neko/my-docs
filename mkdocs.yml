@@ -1,0 +1,11 @@
+site_name: My Documentation
+site_url: https://Toru-neko.github.io/My-docs/
+
+theme:
+  name: material
+  language: ja
+
+nav:
+  - ホーム: index.md
+  - About: about.md
+
