@@ -1,4 +1,5 @@
 site_name: My Documentation
+site_url: https://TestDocs.github.io/my-docs/
 
 theme:
   name: material
